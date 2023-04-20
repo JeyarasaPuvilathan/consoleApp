@@ -1,0 +1,15 @@
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\bin\Debug\net6.0\NCSConsoleApp.exe
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\bin\Debug\net6.0\NCSConsoleApp.deps.json
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\bin\Debug\net6.0\NCSConsoleApp.runtimeconfig.json
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\bin\Debug\net6.0\NCSConsoleApp.dll
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\bin\Debug\net6.0\NCSConsoleApp.pdb
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.csproj.AssemblyReference.cache
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.AssemblyInfo.cs
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.dll
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\refint\NCSConsoleApp.dll
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.pdb
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\NCSConsoleApp.genruntimeconfig.cache
+C:\Users\kanus\source\repos\NCSConsoleApp\NCSConsoleApp\obj\Debug\net6.0\ref\NCSConsoleApp.dll
